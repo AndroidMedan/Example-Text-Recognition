@@ -1,3 +1,10 @@
+/*
+ * Created by Android Developer Medan on 5/25/18 11:47 AM
+ * Copyright (c) 2018. All rights reserved.
+ *
+ * Last modified 5/25/18 11:47 AM
+ */
+
 package com.ysn.exampletextrecognition
 
 import android.Manifest

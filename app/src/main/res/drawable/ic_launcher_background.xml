@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Android Developer Medan on 5/25/18 11:47 AM
+  ~ Copyright (c) 2018. All rights reserved.
+  ~
+  ~ Last modified 5/25/18 11:47 AM
+  -->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
